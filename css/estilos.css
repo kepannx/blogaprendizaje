@@ -7,6 +7,16 @@ body
     margin: 0;
     padding: 0;
 }
+
+footer{
+    color: #DDD;
+    text-align: left;
+    font-family: "Arial";
+    font-size: 12px;
+    margin: 5px;
+    padding: 10px; 
+    background-color:black; 
+}
 #cabecera{
         background: blueviolet;
         color: white;
