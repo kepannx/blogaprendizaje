@@ -7,6 +7,10 @@ body
     margin: 0;
     padding: 0;
 }
+#cabecera{
+        background: blueviolet;
+}
+
 #container
 {
     width: 70%;
